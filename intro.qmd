@@ -1,6 +1,15 @@
 # Introduction
 
-This is a book created from markdown and executable code.
+Invertebrates are important because...
+
+They are threatened by...
+
+Identifying priority areas to focus conservation efforts can help to maximise effectiveness...
+
+Biodiversity 'hotspots' - species richness and endemism...
+
+Identifying hotspots for all invertebrates is not logistically feasible at present, so as a proof of concept we focussed on spiders in the infraorder Mygalomorphae, using spatial analyses to identify hotspots of species richness and endemism across Australia... Our methods can be applied to other taxonomic groups...
+
 
 See @knuth84 for additional discussion of literate programming. @crisp21
 
