@@ -4,15 +4,6 @@ Invertebrates are important because...
 
 They are threatened by...
 
-Identifying priority areas to focus conservation efforts can help to maximise effectiveness...
+Biological conservation is hampered by limited resources, and identifying priority areas to focus conservation efforts can help to maximise their effectiveness @myers00. Species richness and endemism are key indices of biodiversity that reflect biological complexity and uniqueness, and can be used to identify 'biodiversity hotspots' to prioritise for conservation @myers88@, caldecott96, @reid98. Species richness refers to the number of species in an area. Numerous definitions of endemism exist but generally a taxon is considered endemic to a particular area if it occurs only in that area @anderson94. By these definitions, species richness and endemism are dependent on the specification of area @townsendpeterson. Quantifying endemism and identifying areas of high endemism is important in conservation because narrowly endemic taxa have small ranges by definition and are therefore more vulnerable to threats such as environmental change and habitat loss (). Identifying hotspots helps to focus limited resources and improve the efficiency of biodiversity conservation efforts.
 
-Biodiversity 'hotspots' - species richness and endemism... A taxon is endemic to a particular area if it occurs only in that area (). Quantification of endemism depends on the spatial scale being considered, and numerous calculation methods exist (). Quantifying endemism and identifying areas of high endemism is important in conservation because narrowly endemic taxa have small ranges by definition and are therefore more vulnerable to threats such as environmental change and habitat loss ().
-
-Identifying hotspots for all invertebrates is not logistically feasible at present, so as a proof of concept we focussed on spiders in the infraorder Mygalomorphae, using spatial analyses to identify hotspots of species richness and endemism across Australia... Our methods can be applied to other taxonomic groups...
-
-
-See @knuth84 for additional discussion of literate programming. @crisp21
-
-```{r}
-1 + 1
-```
+Identifying hotspots for all invertebrates is not logistically feasible at present, so as a proof of concept we focussed on spiders in the infraorder Mygalomorphae, using spatial analyses to identify hotspots of species richness and endemism across Australia... Our methods can be applied to other taxonomic groups... Quantification of endemism depends on the spatial scale being considered, and numerous calculation methods exist (). Endemism can be quantified on a continuous scale across a spatial grid with reference to the constituent grid cells, based on how many cells taxa occupy.
