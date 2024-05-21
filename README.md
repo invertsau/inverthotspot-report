@@ -4,7 +4,7 @@
 
 1. Install Quarto using [these instructions](https://quarto.org/docs/get-started/)
 2. Clone this repository to your local computer
-3. Open the book.Rproj file using RStudio
+3. Open the .Rproj file using RStudio
 4. Click on any `.qmd` files and click on `Render`. 
 
 Alternatively,
