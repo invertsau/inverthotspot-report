@@ -3,3 +3,7 @@
 README_files/
 .Rproj.user
 *.pdf
+site_libs/
+_books/
+
+

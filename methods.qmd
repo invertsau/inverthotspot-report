@@ -1,1 +1,24 @@
 # Methods 
+
+## Data retrieval
+
+## Data cleaning
+
+<!-- Ashley -->
+
+## Generation of $\alpha$ hulls 
+
+## Quantifying endemism
+
+Biodiverse
+
+### Sample redundancy
+
+### Sample window and moving window
+
+### Endemism metrics
+
+
+## Data and code availability
+
+All data and code to reproduce the R portion of our analyses can be found at our [Github repository](https://github.com/invertsau/inverthotspot). 
